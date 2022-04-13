@@ -1,0 +1,3 @@
+I have created a jsonschema based on the requirements ,invalid json data and valid json files.
+The jason data will be validated against the json schema using validate method.
+Kindly modify the data files to check the schema.
