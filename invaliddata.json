@@ -1,0 +1,14 @@
+{
+  "employee": [
+    {
+      "id": 800,
+      "name": "ABCDEFG",
+      "day": "FR",
+      "home phone": 281,
+      "work phone": 1,
+      "cell phone": 185,
+      "govt id": "ABCDEFGHIJKLMNOPQRST",
+     "birth date": "ABCDEF"
+    }
+  ]
+}

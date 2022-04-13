@@ -1,0 +1,11 @@
+{
+  "employee": [
+	  {
+		  "id": 1,
+		  "name": "kumar",
+		  "home phone": 281,
+		  "birth date": "16/02/2003",
+		  "day": "MO"
+	  }
+	  ]
+}
